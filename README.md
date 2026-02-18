@@ -19,7 +19,8 @@ This project was created as part of my Data Structures course. It helps students
 
 ## Screenshots
 
-(Add screenshots here later!)
+### Main Menu
+![Main Menu](screenshots/queueno.png)
 
 ## What I Learned
 
