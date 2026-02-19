@@ -153,7 +153,7 @@ Ideas for future versions:
 - **Program**: BS Information Technology
 - **Specialization**: Frontend UI Design
 - **Aspiration**: Future Game Developer Designer
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- GitHub: [@YOUR_USERNAME](https://github.com/emilyntagaan)
 - LinkedIn: [Emilyn Tagaan](https://www.linkedin.com/in/emilyn-tagaan-8138003b0/)
 - Email: emilyntagaan18@gmail.com
 
